@@ -1,1 +1,1 @@
-# React Todo App to Practice with React Fundamental Skills
+# React Todo App to Practice React Fundamental Skills
